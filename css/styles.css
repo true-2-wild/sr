@@ -1,7 +1,7 @@
 body {
   background-color: #2d4059;
 }
-h1, h2 {
+h1, h2, p {
   color: white;
   font-family: 'Roboto Slab', serif;
 }
